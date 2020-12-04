@@ -22,3 +22,7 @@ window.addEventListener('resize' function() {
         menuToggle =false
     }
 })
+
+html {
+  scroll-behavior: smooth;
+}
